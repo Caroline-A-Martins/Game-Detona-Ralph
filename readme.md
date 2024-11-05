@@ -1,10 +1,9 @@
-## Awesome JSGame Detona Ralph
-
+## JSGame Detona Ralph
 <p align="center">
-  <img src="assets/img/ralph.png" alt="JSGame Detona Ralph Logo">
+  <img src="/assets/img/ralph.png" alt="JSGame Detona Ralph Logo">
 </p>
 
-Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript. OS jogadores devem clicar nos quadrados que aparecem na tela para marcar pontos. O jogo tem um limite de tempo e um sistema de vidas que torna a jogabilidade mais desafiadora e divertida.
 
 ### Tecnologias Utilizadas
 
@@ -14,14 +13,10 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 ### Funcionalidades Incríveis
 
-- **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
-
-### Como Jogar
-
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
-4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+- **Sistema de Pontuação:** O jogador acumula pontos ao clicar nos quadrados corretos.
+- **Contagem Regressiva:** O tempo de jogo é limitado a 30 segundos.
+- **Sistema de Vidas:** O jogador começa com 3 vidas e perde uma vida a cada erro.
+- **Feedback Sonoro:** Sons são reproduzidos ao clicar nos quadrados.
 
 ### Contribuição
 
